@@ -20,7 +20,7 @@ const contributors = [
     name: '김준혁',
     role: 'Author',
     github: 'https://github.com/jkim1202',
-    birth: null,
+    birth: '2000.03.17',
     age: 27,
     school: '가천대학교 소프트웨어전공 3학년 재학',
     stack: ['Java', 'Spring', 'MySQL'],
